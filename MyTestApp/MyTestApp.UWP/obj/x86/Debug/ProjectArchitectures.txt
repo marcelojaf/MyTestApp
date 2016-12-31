@@ -1,0 +1,2 @@
+D:\desenvolvimento\MyTestApp\MyTestApp\MyTestApp.UWP\MyTestApp.UWP.csproj;x86
+D:\desenvolvimento\MyTestApp\MyTestApp\MyTestApp\MyTestApp.csproj;neutral
